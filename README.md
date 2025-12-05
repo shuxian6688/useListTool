@@ -22,7 +22,8 @@ cousor提示词：https://github.com/PatrickJS/awesome-cursorrules
 ### 日常工具
   全能手机助手:https://github.com/modstart-lib/linkandroid?tab=readme-ov-file  
   内网穿透工具：https://github.com/ffay/lanproxy
-               https://github.com/ehang-io/nps
+               https://github.com/ehang-io/nps  
+  舆论热点推送： https://github.com/sansan0/TrendRadar 
 
 ### 股票爱好者
   股票系统：https://github.com/myhhub/stock
