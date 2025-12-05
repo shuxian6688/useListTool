@@ -6,10 +6,10 @@
   
 
 ### AI工具
-  谷歌Antigravity破解区域限制: https://github.com/netchx/netch  -- 也可以作为梯子工具
-  科学上网梯子:https://github.com/clash-verge-rev
-  cousor提示词：https://github.com/PatrickJS/awesome-cursorrules
-  对话式数据分析神器：https://github.com/dataease/SQLBot
+  谷歌Antigravity破解区域限制: https://github.com/netchx/netch  -- 也可以作为梯子工具 
+  科学上网梯子:https://github.com/clash-verge-rev  
+  cousor提示词：https://github.com/PatrickJS/awesome-cursorrules  
+  对话式数据分析神器：https://github.com/dataease/SQLBot  
   
 ### 智能体合集
   https://github.com/rasbt/LLMs-from-scratch
